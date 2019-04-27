@@ -1,3 +1,3 @@
 # mivida
 
-My Life coin for storing ans sharing personal information.
+My Life coin for storing and sharing personal information.
